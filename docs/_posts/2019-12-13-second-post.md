@@ -20,7 +20,7 @@ void function() {
 }
 ```
 
-### 이것은 비숑
+### 이것은 섭이
 
 ![test image](https://raw.githubusercontent.com/verdana1012/verdana1012.github.io/master/img/profile_dog.jpg)
 
