@@ -1,1 +1,0 @@
-# verdana1012.github.io
