@@ -22,7 +22,7 @@ void function() {
 
 ### 냥이미지
 
-![test image](https://raw.githubusercontent.com/juein/juein.github.io/master/img/profile_cat.jpg)
+![test image](https://raw.githubusercontent.com/juein/juein.github.io/master/img/profile_dog.jpg)
 
 
 ### html
