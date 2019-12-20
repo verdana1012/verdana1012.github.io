@@ -90,8 +90,7 @@ defaults:
       type: posts
     values:
       layout: post
-      share: true
-    comments: true
+      comments: true
       share: true
    # work defaults
   - scope:
@@ -100,6 +99,7 @@ defaults:
     values:
       layout: post
       comments: true
+      share: true
 
 # Site Author
 author:
